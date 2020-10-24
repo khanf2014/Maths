@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Guess the answer</title>  
+</head>
+<body>
+<h1>Some question for youe tiny brain</h1>
+<h2>Let's see how good you are</h2>
+</h2>Solve the ollowing</h2>
+<form>
+<p> 1.What is sum of 1+1?<?p>
+<input type="radio" id="two name="value="2">
+<label for="two">2</label>
+<br>
+<input type="radio" id="eleven" name=2answer" value="11">
+<label for="eleven">11</label>
+</form>
+<form>
+<p>2.What is the sum of 2+1?</p>
+<input type="radio" id="three" name="answer" value="3">
+<label for="three">3</label>
+<br>
+ <input type="radio" id="eleven" name="answer" value="11">
+ <label for="eleven">11</label>
+ <form>
+ <p>3.What is the answer of 3-1? </p>
+ <input type="radio" id="two"  name="answer" value="2">
+ <label for="two">2</label>
+ <br>
+ <input type="radio" id="four" name="answer" value="4">
+ <label for="four">4</label>
+ <br>
+ <br>
+ <input class="correct styled"
+       type="button"
+       value="Thats correct">
+ </form>
+ <form>
+  <br>
+ <section class="submission"
+  <input type="submit" value="submit">
+  </section>
+ </form>
+ <p id="last">Well done for completing this task</p>
+</body>
+</html>
